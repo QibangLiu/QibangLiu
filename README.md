@@ -12,13 +12,13 @@
 
 <span style="font-size: 0.8em;">Research Scientist, UIUC@NCSA | Adjunct Assistant Professor, KSU</span>
 
-📍 Urbana, Illinois
-🏢 [NCSA](https://www.ncsa.illinois.edu/directory/profile/qibang/), [UIUC](https://illinois.edu/)
-✉️ [Email](mailto:qibang@illinois.edu)
-<img src="/images/favicon.svg" alt="Google Scholar" style="width: 22px; height: 22px; vertical-align: -2px;"> [Google Scholar](https://scholar.google.com/citations?user=89fQVp8AAAAJ&hl=en)
-<img src="/images/ORCID_iD.png" alt="ORCID" style="width: 18px; height: 18px; vertical-align: -2px;"> [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-7935-7907)
-<img src="/images/researchgate-icons.png" alt="ResearchGate" style="width: 16px; height: 16px; vertical-align: -2px;"> [ResearchGate](https://www.researchgate.net/profile/Qibang-Liu)
-<img src="/images/github-mark.svg" alt="GitHub" style="width: 16px; height: 16px; vertical-align: -2px;"> [GitHub](https://github.com/QibangLiu)
+<br>📍 Urbana, Illinois<br>
+<br>🏢 [NCSA](https://www.ncsa.illinois.edu/directory/profile/qibang/), [UIUC](https://illinois.edu/)<br>
+<br>✉️ [Email](mailto:qibang@illinois.edu)<br>
+<br><img src="/images/favicon.svg" alt="Google Scholar" style="width: 22px; height: 22px; vertical-align: -2px;"> [Google Scholar](https://scholar.google.com/citations?user=89fQVp8AAAAJ&hl=en)<br>
+<br><img src="/images/ORCID_iD.png" alt="ORCID" style="width: 18px; height: 18px; vertical-align: -2px;"> [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-7935-7907)<br>
+<br><img src="/images/researchgate-icons.png" alt="ResearchGate" style="width: 16px; height: 16px; vertical-align: -2px;"> [ResearchGate](https://www.researchgate.net/profile/Qibang-Liu)<br>
+<br><img src="/images/github-mark.svg" alt="GitHub" style="width: 16px; height: 16px; vertical-align: -2px;"> [GitHub](https://github.com/QibangLiu)<br>
 
 </td>
 <td style="width: 75%; vertical-align: top; padding-left: 20px;">
