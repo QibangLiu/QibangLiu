@@ -6,7 +6,7 @@
 <tr>
 <td style="width: 25%; text-align: center; vertical-align: top;">
 
-<img src="/images/profile.png" alt="Profile Image" style="width: 150px; border-radius: 50%; object-fit: cover;"> <!-- Circular cropped profile image -->
+<img src="/images/profile_circle.png" alt="Profile Image" style="width: 150px;"> <!-- Pre-cropped circular profile image -->
 
 **<span style="font-size: 1.5em;">Dr. Qibang Liu</span>**
 
